@@ -22,6 +22,8 @@ molecule:
         tag: "latest"
       - image: "fedora"
         tag: "34"
+      - image: "ubuntu"
+        tag: "latest"
 
 galaxy:
   script:

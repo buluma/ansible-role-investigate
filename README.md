@@ -4,7 +4,7 @@ Install and configure investigation tools on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-investigate/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-investigate/actions)|[![pipeline status](https://gitlab.com/buluma/ansible-role-investigate/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-investigate/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/57904)](https://galaxy.ansible.com/buluma/investigate)|[![downloads](https://img.shields.io/ansible/role/d/57904)](https://galaxy.ansible.com/buluma/investigate)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/releases/)|
+|[![github](https://github.com/buluma/ansible-role-investigate/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-investigate/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-investigate/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-investigate/-/commits/main)|[![quality](https://img.shields.io/ansible/quality/57904)](https://galaxy.ansible.com/buluma/investigate)|[![downloads](https://img.shields.io/ansible/role/d/57904)](https://galaxy.ansible.com/buluma/investigate)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -86,4 +86,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Robert de Bock](https://buluma.co.ke/)
+[Michael Buluma](https://buluma.github.io/)

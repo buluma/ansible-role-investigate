@@ -33,16 +33,16 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - image: "alpine"
-            tag: "latest"
-          - image: "amazonlinux"
-            tag: "latest"
+          # - image: "alpine"
+          #  tag: "latest"
+          # - image: "amazonlinux"
+          #  tag: "latest"
           # - image: "debian"   # TODO fatal: [investigate-debian-bookwormpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
           #  tag: "bookworm"
-          - image: "fedora"
-            tag: "rawhide"
-          # - image: "ubuntu"    # TODO fatal: [investigate-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
-          #  tag: "latest"
+          # - image: "fedora"
+          #  tag: "rawhide"
+          - image: "ubuntu"    # TODO fatal: [investigate-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
+            tag: "latest"
           # - image: "ubuntu"    # TODO fatal: [investigate-ubuntu-bionicpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
           #  tag: "bionic"
     steps:
