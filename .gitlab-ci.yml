@@ -30,7 +30,7 @@ molecule-testing:
     - image=${image} tag=${tag} molecule test
   rules:
     - if: $CI_COMMIT_REF_NAME == "testing"
-  retry: 3
+  retry: 2
   parallel:
     matrix:
       - image: "docker-ubuntu2204-ansible"
