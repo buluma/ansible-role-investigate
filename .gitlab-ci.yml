@@ -16,12 +16,12 @@ molecule:
   retry: 1
   parallel:
     matrix:
-      # - image: "alpine"
-      #  tag: "latest"
-      # - image: "amazonlinux"
-      #  tag: "latest"
-      # - image: "fedora"
-      #  tag: "34"
+      - image: "alpine"
+        tag: "latest"
+      - image: "amazonlinux"
+        tag: "latest"
+      - image: "fedora"
+        tag: "34"
       - image: "docker-ubuntu2204-ansible"
         tag: "latest"
 
