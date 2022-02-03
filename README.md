@@ -86,4 +86,4 @@ Apache-2.0
 
 ## [Author Information](#author-information)
 
-[Robert de Bock](https://buluma.co.ke/)
+[Michael Buluma](https://buluma.co.ke/)
