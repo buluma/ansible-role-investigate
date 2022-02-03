@@ -22,7 +22,7 @@ molecule:
         tag: "latest"
       - image: "fedora"
         tag: "34"
-      - image: "ubuntu"
+      - image: "docker-ubuntu2204-ansible"
         tag: "latest"
 
 galaxy:

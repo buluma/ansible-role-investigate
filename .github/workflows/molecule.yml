@@ -41,7 +41,7 @@ jobs:
           #  tag: "bookworm"
           # - image: "fedora"
           #  tag: "rawhide"
-          - image: "ubuntu"    # TODO fatal: [investigate-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
+          - image: "docker-ubuntu2204-ansible"    # TODO fatal: [investigate-ubuntu-latestpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
             tag: "latest"
           # - image: "ubuntu"    # TODO fatal: [investigate-ubuntu-bionicpy310-ansible-5]: FAILED! => {"changed": false, "msg": "No package matching 'net-tools' is available"}
           #  tag: "bionic"
