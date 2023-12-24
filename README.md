@@ -1,10 +1,10 @@
-# [Ansible role investigate](#investigate)
+# Ansible role [investigate](https://galaxy.ansible.com/ui/standalone/roles/buluma/investigate/documentation)
 
 Install and configure investigation tools on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-investigate/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-investigate/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-investigate/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-investigate/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-investigate.svg)](https://github.com/buluma/ansible-role-investigate/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/investigate)](https://galaxy.ansible.com/ui/standalone/roles/buluma/investigate/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -87,13 +87,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-investigate/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-investigate/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
