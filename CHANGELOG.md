@@ -1,5 +1,17 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-investigate/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/2.0.0...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#26](https://github.com/buluma/ansible-role-investigate/issues/26)
+
+## [2.0.0](https://github.com/buluma/ansible-role-investigate/tree/2.0.0) (2023-12-25)
+
+[Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.10...2.0.0)
+
 ## [1.0.10](https://github.com/buluma/ansible-role-investigate/tree/1.0.10) (2022-10-05)
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.9...1.0.10)
