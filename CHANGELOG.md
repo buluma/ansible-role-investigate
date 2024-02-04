@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-investigate/tree/HEAD)
+## [2.3.0](https://github.com/buluma/ansible-role-investigate/tree/2.3.0) (2024-01-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/2.2.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/2.2.0...2.3.0)
 
 **Merged pull requests:**
 
@@ -72,6 +72,7 @@
 **Merged pull requests:**
 
 - Update .gitlab-ci.yml [\#13](https://github.com/buluma/ansible-role-investigate/pull/13) ([buluma](https://github.com/buluma))
+- Testing Pipeline [\#1](https://github.com/buluma/ansible-role-investigate/pull/1) ([buluma](https://github.com/buluma))
 
 ## [1.0.3](https://github.com/buluma/ansible-role-investigate/tree/1.0.3) (2022-02-05)
 
@@ -120,7 +121,6 @@
 - Testing [\#7](https://github.com/buluma/ansible-role-investigate/pull/7) ([buluma](https://github.com/buluma))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#3](https://github.com/buluma/ansible-role-investigate/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#2](https://github.com/buluma/ansible-role-investigate/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Testing Pipeline [\#1](https://github.com/buluma/ansible-role-investigate/pull/1) ([buluma](https://github.com/buluma))
 
 
 
