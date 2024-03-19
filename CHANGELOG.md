@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#32](https://github.com/buluma/ansible-role-investigate/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#31](https://github.com/buluma/ansible-role-investigate/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [2.3.0](https://github.com/buluma/ansible-role-investigate/tree/2.3.0) (2024-01-20)
