@@ -108,6 +108,10 @@
 - fatal: \[investigate-ubuntu-latestpy310-ansible-5\]: FAILED! =\> {"changed": false,... [\#10](https://github.com/buluma/ansible-role-investigate/issues/10)
 - fatal: \[investigate-ubuntu-latestpy310-ansible-5\]: FAILED! =\> {"changed": false,... [\#5](https://github.com/buluma/ansible-role-investigate/issues/5)
 
+**Merged pull requests:**
+
+- Testing Ubuntu Build [\#11](https://github.com/buluma/ansible-role-investigate/pull/11) ([buluma](https://github.com/buluma))
+
 ## [1.0.1](https://github.com/buluma/ansible-role-investigate/tree/1.0.1) (2022-02-03)
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.0...1.0.1)
@@ -122,7 +126,6 @@
 
 **Merged pull requests:**
 
-- Testing Ubuntu Build [\#11](https://github.com/buluma/ansible-role-investigate/pull/11) ([buluma](https://github.com/buluma))
 - Testing [\#7](https://github.com/buluma/ansible-role-investigate/pull/7) ([buluma](https://github.com/buluma))
 - Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#3](https://github.com/buluma/ansible-role-investigate/pull/3) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#2](https://github.com/buluma/ansible-role-investigate/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
