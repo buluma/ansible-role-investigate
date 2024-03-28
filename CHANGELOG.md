@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump dependabot/fetch-metadata from 1 to 2 [\#35](https://github.com/buluma/ansible-role-investigate/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#32](https://github.com/buluma/ansible-role-investigate/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#31](https://github.com/buluma/ansible-role-investigate/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -99,6 +100,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.1...1.0.2)
 
+**Implemented enhancements:**
+
+- test ubuntu 20:latest [\#9](https://github.com/buluma/ansible-role-investigate/pull/9) ([buluma](https://github.com/buluma))
+
 **Closed issues:**
 
 - fatal: \[investigate-ubuntu-latestpy310-ansible-5\]: FAILED! =\> {"changed": false,... [\#10](https://github.com/buluma/ansible-role-investigate/issues/10)
@@ -119,10 +124,6 @@
 ## [1.0.0](https://github.com/buluma/ansible-role-investigate/tree/1.0.0) (2022-02-03)
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/724488b5a8d1e98d1b407b33232500b4c0ce4bf5...1.0.0)
-
-**Implemented enhancements:**
-
-- test ubuntu 20:latest [\#9](https://github.com/buluma/ansible-role-investigate/pull/9) ([buluma](https://github.com/buluma))
 
 **Merged pull requests:**
 
