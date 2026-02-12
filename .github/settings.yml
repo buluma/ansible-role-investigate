@@ -5,4 +5,4 @@
 repository:
   description: Install and configure investigation tools on your system.
   homepage: https://buluma.github.io/
-  topics: investigate, ansible, molecule, tox, playbook
+  topics: investigate, ansible, molecule, playbook
