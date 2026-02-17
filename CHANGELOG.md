@@ -4,6 +4,11 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/24.3.31...HEAD)
 
+**Closed issues:**
+
+- Update action [\#25](https://github.com/buluma/ansible-role-investigate/issues/25)
+- rebuild action [\#24](https://github.com/buluma/ansible-role-investigate/issues/24)
+
 **Merged pull requests:**
 
 - Bump ansible/ansible-lint from 24.12.2 to 25.1.0 [\#42](https://github.com/buluma/ansible-role-investigate/pull/42) ([dependabot[bot]](https://github.com/apps/dependabot))
