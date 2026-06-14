@@ -34,4 +34,4 @@ _investigate_packages:
     - bash-completion
     - screen
 
-investigate_packages: "{{ _investigate_packages[ansible_facts.os_family] }}"
+investigate_packages: "{{ _investigate_packages[ansible_os_family] }}"
