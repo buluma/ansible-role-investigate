@@ -70,6 +70,10 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.7...1.0.8)
 
+**Implemented enhancements:**
+
+- test ubuntu 20:latest [\#9](https://github.com/buluma/ansible-role-investigate/pull/9) ([buluma](https://github.com/buluma))
+
 **Merged pull requests:**
 
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#17](https://github.com/buluma/ansible-role-investigate/pull/17) ([dependabot[bot]](https://github.com/apps/dependabot))
@@ -118,10 +122,6 @@
 ## [1.0.2](https://github.com/buluma/ansible-role-investigate/tree/1.0.2) (2022-02-03)
 
 [Full Changelog](https://github.com/buluma/ansible-role-investigate/compare/1.0.1...1.0.2)
-
-**Implemented enhancements:**
-
-- test ubuntu 20:latest [\#9](https://github.com/buluma/ansible-role-investigate/pull/9) ([buluma](https://github.com/buluma))
 
 **Closed issues:**
 
